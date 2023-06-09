@@ -1,0 +1,9 @@
+uvicorn
+sqlalchemy~=2.0.15
+fastapi~=0.95.2
+passlib~=1.7.4
+bcrypt
+python-jose
+python-multipart
+starlette~=0.27.0
+pydantic~=1.10.7
