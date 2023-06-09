@@ -7,3 +7,4 @@ python-jose
 python-multipart
 starlette~=0.27.0
 pydantic~=1.10.7
+gunicorn
